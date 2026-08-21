@@ -1,74 +1,94 @@
-# 👋 Hi, I'm Subhojit
+# 👋 Hi, I'm Subhojit Das
 
-## 🔥 A3M Router - My Flagship Open Source Project
+## 🤖 A3M Router - RouterArena #1 Ranked
 
-**The intelligent LLM routing gateway that routes queries across 80+ providers, delivering 14% faster performance and 92% cost savings vs OpenRouter.**
+**Building the intelligent LLM gateway that routes queries across 80+ providers with biology-inspired algorithms.**
 
-[![A3M Router Stars](https://img.shields.io/github/stars/Das-rebel/a3m-router?style=flat-square&logo=github)](https://github.com/Das-rebel/a3m-router)
-[![npm Downloads](https://img.shields.io/npm/dm/adaptive-memory-multi-model-router?style=flat-square&logo=npm)](https://www.npmjs.com/package/adaptive-memory-multi-model-router)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/a3m-router?style=flat-square&logo=pypi)](https://pypi.org/project/a3m-router/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)]()](https://github.com/Das-rebel/a3m-router/blob/main/LICENSE)
+> 🏆 **RouterArena Benchmark**: 96.77% accuracy (highest of all submissions)  
+> ⚡ **14% faster** latency than OpenRouter  
+> 💰 **92% cost savings** via adaptive routing  
+> 📊 **6,000+ npm downloads/month**
 
----
-
-## 📊 Performance Benchmarks
-
-| Metric | A3M Router | OpenRouter | Advantage |
-|--------|-------------|------------|-----------|
-| **Latency (P99)** | 162ms | 189ms | **14% faster** |
-| **Cost/1K tokens** | $0.00012 | $0.0015 | **92% cheaper** |
-| **Quality Score** | 94% | 92% | **2% better** |
-| **Providers** | 80+ | 45 | **78% more** |
+[![A3M Router](https://img.shields.io/github/stars/Das-rebel/a3m-router?style=flat&logo=github)](https://github.com/Das-rebel/a3m-router)
+[![npm](https://img.shields.io/npm/dm/adaptive-memory-multi-model-router?style=flat&logo=npm)](https://www.npmjs.com/package/adaptive-memory-multi-model-router)
+[![PyPI](https://img.shields.io/pypi/dm/a3m-router?style=flat&logo=pypi)](https://pypi.org/project/a3m-router/)
 
 ---
 
-## 🚀 Key Features
+## 🚀 How It Works
 
-- 🧠 **Adaptive Memory** - Learns from routing patterns for smarter decisions
-- ⚡ **14% Faster** - Optimized routing delivers lower latency  
-- 💰 **92% Cost Savings** - Routes to cheapest capable provider
-- 🔄 **80+ Providers** - Groq, Mistral, OpenAI, Anthropic, DeepSeek & more
-- 🛡️ **99.99% Uptime** - Automatic failover protection
-- 📦 **Multi-Platform** - npm, PyPI, Docker, Kubernetes
+```
+┌─────────────────────────────────────────────────────┐
+│  Your Query: "Explain quantum computing"             │
+└─────────────────┬───────────────────────────────────┘
+                  ▼
+        ┌────────────────────┐
+        │   A3M Router      │  ← Swarm intelligence (EXP3)
+        │  (80+ providers)  │  ← Handicap Principle (cost=signal)
+        └────────┬───────────┘
+                 ▼
+    ┌──────────┴──────────┐
+    │  DeepSeek V3 🏆     │  ← Cheapest capable, fastest
+    │  (93% cheaper)       │
+    └─────────────────────┘
+```
+
+**Routing algorithms inspired by nature:**
+- 🐜 **Swarm Intelligence** - Pheromone trails for real-time path optimization
+- 🦚 **Handicap Principle** - Cost as credibility signal
+- 🧠 **Neural Plasticity** - Time-decayed weight adaptation
+- 🌲 **Competitive Exclusion** - Never lock into one provider
 
 ---
 
-## 📈 Project Stats
+## 📊 RouterArena Results
 
-| Platform | Downloads | Status |
-|----------|-----------|--------|
-| **npm** | 6,000+/month | 🔵 Growing |
-| **PyPI** | 700+/month | 🟢 Stable |
-| **GitHub** | 14 ⭐ | 🟡 Growing |
+| Metric | A3M Router | vs OpenAI | vs Azure |
+|--------|------------|-----------|---------|
+| **Accuracy** | 96.77% 🥇 | 91.23% | 88.47% |
+| **Cost/1K** | $0.077 | $1.50 | $2.10 |
+| **Robustness** | 1.000 | 0.989 | 0.976 |
 
----
-
-## 🔗 Quick Links
-
-- 📘 **[Documentation](https://github.com/Das-rebel/a3m-router#readme)**
-- 📦 **[npm Package](https://www.npmjs.com/package/adaptive-memory-multi-model-router)**
-- 🐍 **[PyPI Package](https://pypi.org/project/a3m-router/)**
-- 🐛 **[Report Issues](https://github.com/Das-rebel/a3m-router/issues)**
+> Full benchmark: [RouterArena PR #189](https://github.com/RouteWorks/RouterArena/pull/189)
 
 ---
 
 ## 💼 About Me
 
-**AI-native growth leader** with 10 years in fintech:
-- Built LLM orchestration systems at Axis Bank, Groww, ICICI Bank
-- Expertise in routing, cost optimization, and multi-provider architectures
-- Bangalore, India 🇮🇳
+**AI-native systems engineer** with 10 years in fintech building:
 
-**Open to:** Collaborations on LLM routing, AI gateway projects, and cost optimization initiatives.
+- **LLM orchestration** at Axis Bank, Groww, ICICI Bank
+- **Growth automation** systems handling millions of requests/day
+- **Multi-provider routing** with cost optimization at scale
+
+**What I build:**
+- Adaptive routing algorithms that self-optimize in production
+- Ensemble voting systems for hallucination detection
+- Semantic caching layers for 10x cost reduction
+- OpenAI-compatible proxies with zero-code migration
+
+**Location:** Bangalore, India 🇮🇳
 
 ---
 
-## 📬 Let's Connect
+## 🛠️ Tech Stack
 
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/a3m_router)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/subhojit)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/Das-rebel)
+**Languages:** TypeScript, Python, Node.js, Bash
+
+**AI/LLM:** OpenAI, Anthropic, DeepSeek, Groq, Mistral, Google Gemini, Cerebras
+
+**Infrastructure:** Docker, Kubernetes, AWS, GCP, Railway, Render
+
+**Tools:** LangChain, LangGraph, LlamaIndex, vLLM, Ollama
 
 ---
 
-*Building the future of intelligent LLM routing* 🚀
+## 🌐 Connect
+
+[![Twitter](https://img.shields.io/badge/@Subholearns-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Subholearns)
+[![LinkedIn](https://img.shields.io/badge/Subhajit%20Das-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/subhojitd)
+[![GitHub](https://img.shields.io/github/stars/Das-rebel-181717?style=flat&logo=github)](https://github.com/Das-rebel)
+
+---
+
+*Building open-source infrastructure for the intelligent web* 🌐
