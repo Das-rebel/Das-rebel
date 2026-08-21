@@ -1,94 +1,56 @@
-# 👋 Hi, I'm Subhojit Das
+# Hi, I'm Subhojit 👋
 
-## 🎯 AI Growth Strategist | Marketing Leader | P&L Owner
+## What I'm into
 
-**10+ years building marketing engines that scale.**
+Marketing, AI systems, and the space where they meet.
 
-> From science (IISER Pune) to strategy (IIM Trichy) to AI-native growth marketing.
+I've spent 10 years in fintech — observing how growth actually works at scale, what breaks, and what doesn't. Currently exploring how LLM routing can make AI infrastructure more accessible and cost-effective.
 
----
+**Currently working on:**
+- A3M Router — an open-source project exploring biology-inspired routing algorithms (swarm intelligence, competitive exclusion, neural plasticity) for LLM infrastructure
+- Experimenting with ensemble methods for hallucination detection
+- Studying how different providers perform across query types
 
-## 📊 What I Do
-
-**I build growth systems that compound.** Not campaigns. Not content. Actual machine-readable marketing infrastructure that scales.
-
-**Specialties:**
-- **AI Marketing Automation** — Building autonomous marketing systems with LLM routing, semantic caching, and ensemble voting
-- **Performance Marketing** — ₹70Cr+ disbursements, 8x revenue growth, 3x leads @ ¼ CAC
-- **Demand Generation** — Full-funnel from awareness to conversion with attribution
-- **Retention & Monetization** — 120% growth, D2C growth playbooks
+**What I've observed:**
+- Cost vs quality tradeoffs in production AI systems are fascinating
+- Open-source alternatives to centralized infrastructure matter more than we think
+- The biology of adaptation maps surprisingly well to routing problems
 
 ---
 
-## 🏆 Key Numbers
+## Background
 
-| Metric | Result |
-|--------|--------|
-| **Revenue Impact** | ₹70Cr+ monthly disbursements |
-| **Lead Generation** | 8x growth, 3x @ ¼ CAC |
-| **Brand Growth** | 120% YoY |
-| **D2C Scale** | 4.5M+ customers acquired |
-| **Cost Savings** | 92% via AI routing (A3M Router) |
+**Education:**
+- IISER Pune —Masters in Science (natural sciences, research training)
+- IIM Trichy — PGPM (marketing, strategy)
 
----
-
-## 🛠️ Tech Stack
-
-**AI Tools:** LLM orchestration, A3M Router, semantic caching, ensemble voting
-
-**Marketing:** Google Ads, Meta Ads, LinkedIn Ads, Programmatic, SEO, Growth loops
-
-**Analytics:** Attribution modeling, cohort analysis, funnel optimization, incrementality testing
-
-**Automation:** Multi-touch nurture, lead scoring, CRM workflows, A/B testing
+**Worked across:**
+- Digital marketing, growth, retention at scale
 
 ---
 
-## 💼 Experience
+## Projects
 
-| Company | Role | Years |
-|---------|------|-------|
-| **Axis Bank** | Growth/Retention | Recent |
-| **Groww** | Product Marketing | Past |
-| **ICICI Bank** | Digital Marketing | Past |
+### A3M Router
+An open-source LLM gateway exploring alternative routing approaches.
 
----
+> *Started as an experiment to understand routing dynamics. Results were interesting enough to share.*
 
-## 🎓 Education
-
-| Institution | Degree | Years |
-|-------------|--------|-------|
-| **IIM Trichy** | PGPM, Marketing | 2012-2014 |
-| **IISER Pune** | Masters in Science | 2006-2011 |
-
-*IISER Pune = Indian Institute of Science Education and Research — 5-year integrated science program*
+- 80+ provider support
+- Biology-inspired algorithms (EXP3, time-decayed weights)
+- RouterArena evaluation: 96.77% accuracy on benchmark
+- npm + PyPI packages available
 
 ---
 
-## 🌐 Side Projects
+## Thinking out loud
 
-### A3M Router (Open Source)
-**The intelligent LLM gateway that routes across 80+ providers.**
+I document experiments, findings, and observations on:
 
-- 🏆 RouterArena #1 (96.77% accuracy)
-- 💰 92% cost savings vs OpenAI direct
-- ⚡ 14% faster latency
-- 🐜 Swarm intelligence routing (EXP3 algorithm)
-
-*[Built this because I needed cheap AI routing for marketing automation at scale]*
+- [GitHub](https://github.com/Das-rebel/a3m-router)
+- [LinkedIn](https://linkedin.com/in/subhojitd)
+- [Twitter](https://twitter.com/Subholearns)
 
 ---
 
-## 📍 Location
-
-Bangalore, India 🇮🇳 | Open to: Mumbai, Remote
-
-## 📬 Connect
-
-[![LinkedIn](https://img.shields.io/badge/Subhajit%20Das-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhojitd)
-[![Twitter](https://img.shields.io/badge/@Subholearns-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Subholearns)
-[![Email](https://img.shields.io/badge/sdas22%40gmail.com-D14833?style=flat&logo=gmail)](mailto:sdas22@gmail.com)
-
----
-
-*Building marketing systems that compound.*
+*Based in Bangalore. Interested in AI infrastructure, growth systems, and applied research.*
