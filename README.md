@@ -1,4 +1,4 @@
-# Hi, I'm Subhojit 👋
+# Hi, I'm Subhajit 👋
 
 ## What I'm into
 
